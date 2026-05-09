@@ -6,8 +6,8 @@ ADMIN_ID = 7769226977
 
 # === GITHUB ===
 # Впиши сюда свой Personal Access Token от GitHub
-GITHUB_TOKEN = "ghp_ВПИШИ_СЮДА_СВОЙ_ТОКЕН"
-GITHUB_REPO = "ТВОЙ_ЮЗЕРНЕЙМ/vpn-sub"  # например: ivan123/vpn-sub
+GITHUB_TOKEN = "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"
+GITHUB_REPO = "anonkav647/vpn-sub"  # например: ivan123/vpn-sub
 GITHUB_BRANCH = "main"
 
 # Путь в репозитории, где будут лежать файлы подписок
